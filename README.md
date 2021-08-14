@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey you, I'm Maurício Alves!
+Student of Information Systems at UFPE 👋
 
 <!--
 **1-mauricio/1-mauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
